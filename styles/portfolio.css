@@ -1,0 +1,190 @@
+.headin_h3{
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.headin_h1{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+   
+}  
+
+
+.inside_img_text{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white
+  
+}
+.banner img {
+    
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+/* 
+now in main section */
+
+.main_h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main_h2{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.main_h1_prime
+{
+    
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+ 
+}
+
+
+.main_img img{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+
+
+
+.new{
+    
+    
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    
+    
+    
+}
+.new .Welcome{
+ 
+    margin: 200px 150px;
+    color: white;
+    display: flex;
+} 
+.new .Welcome img{
+    margin-top: 50px;
+}
+
+
+.midnight{
+
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+
+.Dolor{
+
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+
+
+
+
+
+
+.btn{
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+
+
+.Park_Hotel{
+    background-color: aquamarine;
+    width: 1320px;
+    height: 482px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+.BEST_OFFER{
+    
+    /* width: 1320px;
+    height: 482px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.FUNCTIONAL{
+      
+    width: 1320px;
+    height: 482px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+}
+.inside_3_img{
+      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.prot{
+    
+}
