@@ -204,7 +204,7 @@ text-transform: uppercase;
 
 
 .today{
-  margin-left: 50px;
+    margin-left: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -235,4 +235,45 @@ text-transform: uppercase;
     margin-top: 100px;
     text-align: center;
     
+}
+input{
+    font-size: large;
+    height: 50px;
+    border-radius: 8%;
+    border: none;
+}
+.subscribe-button{
+    font-size: large;
+    height: 50px;
+    border: none;
+    border-radius: 8%;
+}
+
+
+
+footer{
+    background-color: black;
+    color:white;
+    padding: 100px 0px;
+}
+
+.fst{
+   display: flex;
+   justify-content:space-evenly;
+}
+.notun{
+    display: flex;
+
+}
+.socal_media{
+   display: flex;
+   justify-content: center;
+   gap: 24px;
+   padding: 50px 0px;
+}
+
+.nai{
+  
+    display: flex;
+   justify-content:space-evenly;
 }
