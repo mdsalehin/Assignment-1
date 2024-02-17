@@ -204,11 +204,10 @@ text-transform: uppercase;
 
 
 .today{
-    margin-left: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto;
+    margin-left: 300px;
     
 }
 
